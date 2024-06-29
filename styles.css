@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+
+.header {
+  padding: 46px;
+  text-align: center;
+  background: Teal;
+  color: white;
+}
+
+.header h1 {
+  font-size: 42px;
+}
+
+.header p {
+  font-size: 22px;
+}
+
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.side {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.main {   
+  background-color: white;
+  padding: 20px;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: rgb(1, 145, 145);
+}
